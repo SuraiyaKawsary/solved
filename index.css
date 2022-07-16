@@ -1,0 +1,22 @@
+.ab
+{
+    background-color: aquamarine;
+    padding: 10px;
+    border: 6px red;
+}
+h1{
+    color:crimson;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{
+    color: darkmagenta;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+p{
+   background-color: darkcyan;
+    color: beige;
+    padding: 20px;
+}
